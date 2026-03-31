@@ -6,4 +6,20 @@ Broom
 Mop
 Shower gel
 Shampoo
+Cabbages
+Tomatoes
+Rice
+Ketchup
+Meat
+Vinegar
+Cooking oil
+Mayonnaise
+Sweet potatoes
+Biscuits
+Pringles
+Bread
+Oreo
+Winnaz
+Chocolate
+Crisps
 
